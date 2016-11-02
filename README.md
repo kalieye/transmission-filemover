@@ -9,3 +9,5 @@ edit transmission-filemover.conf and place each filter in a single line with thi
 filter:/destination/directory
 
 where filter is part of the tracker URL (for example if your tracker is mydomain.com you can use mydomain as filter)
+
+IF you are using authentication edit your credentials at the start of the script
